@@ -1,5 +1,5 @@
 {
-  "name": "express-promised-callback",
+  "name": "express-promisify-callback",
   "version": "1.0.0",
   "description": "return promises in express callbacks",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreterron/express-promised-callback.git"
+    "url": "git+https://github.com/andreterron/express-promisify-callback.git"
   },
   "keywords": [
     "express",
@@ -16,12 +16,12 @@
     "callback",
     "router"
   ],
-  "author": "Andre Terron",
+  "author": "Andre Terron <andrev.terron@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andreterron/express-promised-callback/issues"
+    "url": "https://github.com/andreterron/express-promisify-callback/issues"
   },
-  "homepage": "https://github.com/andreterron/express-promised-callback#readme",
+  "homepage": "https://github.com/andreterron/express-promisify-callback#readme",
   "dependencies": {
     "bluebird": "^3.5.0"
   }
